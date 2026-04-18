@@ -8,7 +8,7 @@
 - Fintech market prediction models
 
 ⚙️ Tech:
-Python | Java | C++ | SQL | JavaScript | TensorFlow | Supabase | Vercel
+Python | Java | C++ | c# | SQL | JavaScript | TensorFlow | Supabase | Vercel
 
 📫 Reach me: chan.anth@northeastern.edu
 💼 LinkedIn: https://www.linkedin.com/in/ajchan2006/
