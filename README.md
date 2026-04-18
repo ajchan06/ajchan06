@@ -1,6 +1,6 @@
 # Hi, I’m Anthony 👋
 
-💻 CS @ Northeastern (3.89 GPA)  
+💻 Honors CS @ Northeastern (3.89 GPA)  
 📊 Interested in Software Engineering, AI, and Data Systems 
 
 🔬 Currently working on:
