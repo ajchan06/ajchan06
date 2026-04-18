@@ -1,7 +1,8 @@
 # Hi, I’m Anthony 👋
 
 💻 CS @ Northeastern (3.89 GPA)  
-📊 Interested in Software Engineering, AI, and Data Systems  
+📊 Interested in Software Engineering, AI, and Data Systems 
+
 🔬 Currently working on:
 - Personal Rubik’s Cube learning platform
 - AI Hallucination Detection (multimodal)
