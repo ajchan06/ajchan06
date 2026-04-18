@@ -10,5 +10,5 @@
 ⚙️ Tech:
 Python | Java | C++ | c# | SQL | JavaScript | TensorFlow | Supabase | Vercel
 
-📫 Reach me: chan.anth@northeastern.edu
+📫 Reach me: chan.anth@northeastern.edu  
 💼 LinkedIn: https://www.linkedin.com/in/ajchan2006/
