@@ -4,9 +4,8 @@
 📊 Interested in Software Engineering, AI, and Data Systems 
 
 🔬 Currently working on:
-- Personal Rubik’s Cube learning platform
-- AI Hallucination Detection (multimodal)
-- Biologically-inspired neural networks
+- Rubik’s Cube learning platform (algorithm + UI)
+- AI hallucination detection (multimodal signals)
 - Fintech market prediction models
 
 ⚙️ Tech:
