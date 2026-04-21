@@ -9,6 +9,6 @@
 - Fintech market prediction models
 
 ⚙️ Tech:
-Python | Java | C++ | C# | SQL | JavaScript | React | TensorFlow | Redis | MongoDB | Supabase | Vercel
+Python | Java | C++ | C# | SQL | JavaScript | React | TensorFlow | Redis | MongoDB | Supabase | Vercel  
 📫 Reach me: chan.anth@northeastern.edu  
 💼 LinkedIn: https://www.linkedin.com/in/ajchan2006/
