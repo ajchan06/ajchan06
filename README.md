@@ -1,7 +1,7 @@
 # Hi, I’m Anthony 👋
 
 💻 Honors CS @ Northeastern (3.89 GPA)  
-📊 Focused on backend systems, data engineering, and applied machine learning
+📊 Building full-stack applications, backend systems, and data infrastructure, with interests in applied machine learning
 
 🔬 Currently working on:
 - Rubik’s Cube learning platform (algorithm + UI)
